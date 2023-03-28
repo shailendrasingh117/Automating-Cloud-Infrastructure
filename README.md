@@ -20,9 +20,9 @@ This template creates an Amazon S3 bucket and an Amazon DynamoDB table.
 4. Commit and push your changes to the GitHub repository:<br>
 
 ```
-$ git add template.yaml<br>
-$ git commit -m "Update CloudFormation template"<br>
-$ git push<br>
+$ git add template.yaml
+$ git commit -m "Update CloudFormation template"
+$ git push
 ```
 5. Wait for the AWS CodePipeline deployment to complete. This will automatically create the CloudFormation stack based on the updated template.
 
